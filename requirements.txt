@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+shap
+joblib
+matplotlib
+seaborn
+xgboost==1.7.6
+shap==0.44.1
+numpy==1.26.4
