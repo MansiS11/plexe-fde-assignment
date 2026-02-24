@@ -66,11 +66,6 @@ docker build -t plexe-ml .
 Run container
 docker run -p 8000:8000 plexe-ml
 
-## Project Structure
-AI/
-data
-
-
 ## Limitations
 - Limited behavioral history for new sellers
 - Static offline training
